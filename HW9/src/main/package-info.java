@@ -1,7 +1,6 @@
 
 /**
- */
-/**
- * @author Games
- */
+ * @author Anton
+ **/
+
 package main;
