@@ -11,6 +11,6 @@ public final class Main {
     /**
      * This is test.
      */
-    static final String TEST = "This is a test";
+    static final String TEST = "This is a test using both automated tests";
 
 }
