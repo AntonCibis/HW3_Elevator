@@ -1,7 +1,9 @@
 package main;
 
 public class Main {
-
-	public String test = "test";
+    /**
+     * This is test
+     */
+    static final String test = "test";
 
 }
