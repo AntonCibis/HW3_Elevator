@@ -1,5 +1,5 @@
-package main;
 
+package main;
 public final class Main {
     /**
      * not called.
