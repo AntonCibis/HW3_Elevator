@@ -11,6 +11,6 @@ public final class Main {
     /**
      * This is test.
      */
-    static final String TEST = "test";
+    static final String TEST = "This is a test";
 
 }
