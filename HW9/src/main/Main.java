@@ -1,8 +1,8 @@
 package main;
 
-public class Main {
+public final class Main {
     /**
-     * not called
+     * not called.
      */
     private Main() {
 
