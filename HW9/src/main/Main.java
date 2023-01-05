@@ -2,8 +2,8 @@ package main;
 
 public class Main {
     /**
-     * This is test
+     * This is test.
      */
-    static final String test = "test";
+    static final String TEST = "test";
 
 }
