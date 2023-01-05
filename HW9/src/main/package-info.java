@@ -1,7 +1,7 @@
 
+package main;
 /**
  */
 /**
  * @author Games
  */
-package main;
